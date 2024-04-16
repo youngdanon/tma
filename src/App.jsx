@@ -86,7 +86,7 @@ const App = () => {
   return (
     <div className="w-screen h-screen bg-gray-900 flex justify-center items-center">
       <div className="p-3 bg-white shadow-sm">
-        Shake me!
+        Shake me!!!
       </div>
       <div className="p-3 bg-white shadow-sm">
         {shakesCount}
