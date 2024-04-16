@@ -7,6 +7,7 @@ export default defineConfig({
   server: {
     https: true
   },
+  base: "/tma",
   plugins: [react(), mkcert({
     savePath: './certs/'
   })],

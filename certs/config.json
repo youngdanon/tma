@@ -2,13 +2,14 @@
   "record": {
     "hosts": [
       "localhost",
+      "10.66.66.2",
       "192.168.0.53",
       "127.0.0.1",
       "172.23.176.1"
     ],
     "hash": {
-      "key": "05f5231367b29db5cab6a144819d3f7ab7ba3cc2121381631c1f108469e7bf8b",
-      "cert": "5b530c4885ec4e1c3d9a3e60244d822468eaa8ca39d553da337f2122486f7ede"
+      "key": "2dc7ace4a3d9e758cf3d287a84436eb450c8172e15775c8213c49395415b9195",
+      "cert": "4ce9c052c219c88df93013070bb6d0763fbd298fc876219654e229c9930cbfe7"
     }
   },
   "configFilePath": "C:\\Users\\farda\\OneDrive\\Документы\\Repos\\gyroscope_test\\certs\\config.json"
