@@ -1,5 +1,4 @@
 import { SDKInitOptions, SDKProvider } from "@tma.js/sdk-react";
-/** @ts-expect-error  asd */
 import App from './App'
 
 
